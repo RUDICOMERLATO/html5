@@ -1,7 +1,21 @@
 @charset "UTF-8";
 body {
-     background-color: rgba(99, 139, 137, 0.562);
-         color: rgba(97, 69, 69, 0.863) ;
+     background-color: rgb(238, 245, 245);
+         color: rgba(15, 15, 15, 0.863) ;
+}
+div#interface {
+width : 1750px;
+background-color:rgba(252, 252, 252, 0.87);
+margin: 20px autopx 0px autopx;
+box-shadow: 0px 0px 30px rgba(0,0,0,.5);
+padding: 10px;
+}
+
+header#cabecalho img#icone {
+position: absolute;
+left: 1650px;
+top :100px
+
 }
  /* formatação de foto com legenda */
 
